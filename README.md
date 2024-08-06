@@ -16,3 +16,5 @@ We will use the Spring Initializr web tool to create our project. Head over to h
 Group: com.example
 Artifact: thymeleaf-tour
 Dependencies: Web, Thymeleaf, Spring DevTools, lombok
+
+# master_InputForm     branch   has basic input form demo
