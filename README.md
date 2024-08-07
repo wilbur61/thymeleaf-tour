@@ -18,3 +18,4 @@ Artifact: thymeleaf-tour
 Dependencies: Web, Thymeleaf, Spring DevTools, lombok
 
 # master_InputForm     branch   has basic input form demo
+# master_InputFormErrCheck  has basic err check for userid
